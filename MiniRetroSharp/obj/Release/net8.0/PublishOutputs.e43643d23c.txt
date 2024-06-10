@@ -1,0 +1,1 @@
+D:\Documentos\GitHub\Studies\Mini Retro Games\MiniRetroSharp\MiniRetroSharp\bin\Release\net8.0\publish\web.config

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vQJ9Pnc/gWiQavWRVvv3sEDk6Vc3CQZl4JvTRPQ3QhTJynpHZN2Atj3JzkLx9X7iD0NZbnZyO1BRVdlYjD33Hg==",
+  "dgSpecHash": "yD+5Yew9N3EEulpXkXfWkCRnJDKhITTjzfKpBbVIgJekwlJ7HhOfVwmeUyKGOh0PMQhDrVvNmlDtRcEoQjbhBA==",
   "success": true,
-  "projectFilePath": "D:\\Documentos\\GitHub\\Studies\\Mini Retro Games\\C#\\MiniRetroSharp\\MiniRetroSharp\\MiniRetroSharp.csproj",
+  "projectFilePath": "D:\\Documentos\\GitHub\\Studies\\Mini Retro Games\\MiniRetroSharp\\MiniRetroSharp\\MiniRetroSharp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dreeb\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.2\\microsoft.aspnetcore.authorization.8.0.2.nupkg.sha512",
     "C:\\Users\\dreeb\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.2\\microsoft.aspnetcore.components.8.0.2.nupkg.sha512",
@@ -29,7 +29,7 @@
     "C:\\Users\\dreeb\\.nuget\\packages\\microsoft.jsinterop\\8.0.2\\microsoft.jsinterop.8.0.2.nupkg.sha512",
     "C:\\Users\\dreeb\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.2\\microsoft.jsinterop.webassembly.8.0.2.nupkg.sha512",
     "C:\\Users\\dreeb\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
-    "C:\\Users\\dreeb\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.4\\microsoft.net.sdk.webassembly.pack.8.0.4.nupkg.sha512",
+    "C:\\Users\\dreeb\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.6\\microsoft.net.sdk.webassembly.pack.8.0.6.nupkg.sha512",
     "C:\\Users\\dreeb\\.nuget\\packages\\nkast.wasm.audio\\8.0.0\\nkast.wasm.audio.8.0.0.nupkg.sha512",
     "C:\\Users\\dreeb\\.nuget\\packages\\nkast.wasm.canvas\\8.0.0\\nkast.wasm.canvas.8.0.0.nupkg.sha512",
     "C:\\Users\\dreeb\\.nuget\\packages\\nkast.wasm.dom\\8.0.0\\nkast.wasm.dom.8.0.0.nupkg.sha512",
@@ -45,8 +45,7 @@
     "C:\\Users\\dreeb\\.nuget\\packages\\nkast.xna.framework.media\\3.12.9001\\nkast.xna.framework.media.3.12.9001.nupkg.sha512",
     "C:\\Users\\dreeb\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
     "C:\\Users\\dreeb\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
-    "C:\\Users\\dreeb\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
-    "C:\\Users\\dreeb\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.4\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.4.nupkg.sha512"
+    "C:\\Users\\dreeb\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -428,7 +428,7 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "Microsoft.NET.Sdk.WebAssembly.Pack/8.0.4": {
+      "Microsoft.NET.Sdk.WebAssembly.Pack/8.0.6": {
         "type": "package",
         "build": {
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.props": {},
@@ -1152,7 +1152,7 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "Microsoft.NET.Sdk.WebAssembly.Pack/8.0.4": {
+      "Microsoft.NET.Sdk.WebAssembly.Pack/8.0.6": {
         "type": "package",
         "build": {
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.props": {},
@@ -2306,10 +2306,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.NET.Sdk.WebAssembly.Pack/8.0.4": {
-      "sha512": "D4kK4zXW43HvIX0lG9rBGGVzNtY6WwbCGAHJEi6iChU5Dgw8VenJS7Jc1g9Yy8pq4mEQA5PCcZicA16hGTjRpw==",
+    "Microsoft.NET.Sdk.WebAssembly.Pack/8.0.6": {
+      "sha512": "4X+KpUFx/0feEWcMi4v+QVu8rMbYzHfbUv8nONSeZ4AiVects9F91kbQTL3GWs3mcGtejMtW86DIVE8UbghQlA==",
       "type": "package",
-      "path": "microsoft.net.sdk.webassembly.pack/8.0.4",
+      "path": "microsoft.net.sdk.webassembly.pack/8.0.6",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
@@ -2337,7 +2337,7 @@
         "build/Microsoft.NET.Sdk.WebAssembly.Pack.props",
         "build/Microsoft.NET.Sdk.WebAssembly.Pack.targets",
         "build/Wasm.web.config",
-        "microsoft.net.sdk.webassembly.pack.8.0.4.nupkg.sha512",
+        "microsoft.net.sdk.webassembly.pack.8.0.6.nupkg.sha512",
         "microsoft.net.sdk.webassembly.pack.nuspec",
         "tools/net472/Microsoft.Bcl.AsyncInterfaces.dll",
         "tools/net472/Microsoft.Build.dll",
@@ -2345,6 +2345,7 @@
         "tools/net472/Microsoft.NET.Sdk.WebAssembly.Pack.Tasks.dll",
         "tools/net472/Microsoft.NET.StringTools.dll",
         "tools/net472/Microsoft.NET.WebAssembly.Webcil.dll",
+        "tools/net472/Microsoft.VisualStudio.Setup.Configuration.Interop.dll",
         "tools/net472/System.Buffers.dll",
         "tools/net472/System.Collections.Immutable.dll",
         "tools/net472/System.Configuration.ConfigurationManager.dll",
@@ -2367,6 +2368,7 @@
         "tools/net8.0/Microsoft.NET.WebAssembly.Webcil.dll",
         "tools/net8.0/Microsoft.Win32.SystemEvents.dll",
         "tools/net8.0/System.Configuration.ConfigurationManager.dll",
+        "tools/net8.0/System.Diagnostics.EventLog.dll",
         "tools/net8.0/System.Drawing.Common.dll",
         "tools/net8.0/System.Reflection.MetadataLoadContext.dll",
         "tools/net8.0/System.Security.Cryptography.ProtectedData.dll",
@@ -2785,7 +2787,7 @@
       "Microsoft.AspNetCore.Components.WebAssembly >= 8.0.2",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 8.0.2",
       "Microsoft.NET.ILLink.Tasks >= 8.0.4",
-      "Microsoft.NET.Sdk.WebAssembly.Pack >= 8.0.4",
+      "Microsoft.NET.Sdk.WebAssembly.Pack >= 8.0.6",
       "nkast.Xna.Framework >= 3.12.9001",
       "nkast.Xna.Framework.Audio >= 3.12.9001",
       "nkast.Xna.Framework.Blazor >= 3.12.9001",
@@ -2803,11 +2805,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documentos\\GitHub\\Studies\\Mini Retro Games\\C#\\MiniRetroSharp\\MiniRetroSharp\\MiniRetroSharp.csproj",
+      "projectUniqueName": "D:\\Documentos\\GitHub\\Studies\\Mini Retro Games\\MiniRetroSharp\\MiniRetroSharp\\MiniRetroSharp.csproj",
       "projectName": "MiniRetroSharp",
-      "projectPath": "D:\\Documentos\\GitHub\\Studies\\Mini Retro Games\\C#\\MiniRetroSharp\\MiniRetroSharp\\MiniRetroSharp.csproj",
+      "projectPath": "D:\\Documentos\\GitHub\\Studies\\Mini Retro Games\\MiniRetroSharp\\MiniRetroSharp\\MiniRetroSharp.csproj",
       "packagesPath": "C:\\Users\\dreeb\\.nuget\\packages\\",
-      "outputPath": "D:\\Documentos\\GitHub\\Studies\\Mini Retro Games\\C#\\MiniRetroSharp\\MiniRetroSharp\\obj\\",
+      "outputPath": "D:\\Documentos\\GitHub\\Studies\\Mini Retro Games\\MiniRetroSharp\\MiniRetroSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dreeb\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2859,7 +2861,7 @@
           "Microsoft.NET.Sdk.WebAssembly.Pack": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[8.0.4, )",
+            "version": "[8.0.6, )",
             "autoReferenced": true
           },
           "nkast.Xna.Framework": {
@@ -2910,12 +2912,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-            "version": "[8.0.4, 8.0.4]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

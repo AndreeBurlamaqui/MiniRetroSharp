@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniRetroSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8e64a05a4281ae61189aa26758ebc6db370afc0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniRetroSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniRetroSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

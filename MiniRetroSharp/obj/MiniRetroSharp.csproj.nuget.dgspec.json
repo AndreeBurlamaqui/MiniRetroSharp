@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\GitHub\\Studies\\Mini Retro Games\\C#\\MiniRetroSharp\\MiniRetroSharp\\MiniRetroSharp.csproj": {}
+    "D:\\Documentos\\GitHub\\Studies\\Mini Retro Games\\MiniRetroSharp\\MiniRetroSharp\\MiniRetroSharp.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\GitHub\\Studies\\Mini Retro Games\\C#\\MiniRetroSharp\\MiniRetroSharp\\MiniRetroSharp.csproj": {
+    "D:\\Documentos\\GitHub\\Studies\\Mini Retro Games\\MiniRetroSharp\\MiniRetroSharp\\MiniRetroSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\GitHub\\Studies\\Mini Retro Games\\C#\\MiniRetroSharp\\MiniRetroSharp\\MiniRetroSharp.csproj",
+        "projectUniqueName": "D:\\Documentos\\GitHub\\Studies\\Mini Retro Games\\MiniRetroSharp\\MiniRetroSharp\\MiniRetroSharp.csproj",
         "projectName": "MiniRetroSharp",
-        "projectPath": "D:\\Documentos\\GitHub\\Studies\\Mini Retro Games\\C#\\MiniRetroSharp\\MiniRetroSharp\\MiniRetroSharp.csproj",
+        "projectPath": "D:\\Documentos\\GitHub\\Studies\\Mini Retro Games\\MiniRetroSharp\\MiniRetroSharp\\MiniRetroSharp.csproj",
         "packagesPath": "C:\\Users\\dreeb\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\GitHub\\Studies\\Mini Retro Games\\C#\\MiniRetroSharp\\MiniRetroSharp\\obj\\",
+        "outputPath": "D:\\Documentos\\GitHub\\Studies\\Mini Retro Games\\MiniRetroSharp\\MiniRetroSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dreeb\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,7 +63,7 @@
             "Microsoft.NET.Sdk.WebAssembly.Pack": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.4, )",
+              "version": "[8.0.6, )",
               "autoReferenced": true
             },
             "nkast.Xna.Framework": {
@@ -114,12 +114,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[8.0.4, 8.0.4]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
