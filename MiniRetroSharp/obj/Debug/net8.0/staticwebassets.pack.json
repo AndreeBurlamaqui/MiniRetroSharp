@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Documentos\\GitHub\\Studies\\Mini Retro Games\\C#\\MiniRetroSharp\\MiniRetroSharp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\Documentos\\GitHub\\Studies\\Mini Retro Games\\C#\\MiniRetroSharp\\MiniRetroSharp\\obj\\Debug\\net8.0\\compressed\\j19e7osg33.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\Documentos\\GitHub\\Studies\\Mini Retro Games\\C#\\MiniRetroSharp\\MiniRetroSharp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MiniRetroSharp.styles.css",
+      "PackagePath": "staticwebassets\\MiniRetroSharp.styles.css"
+    },
+    {
+      "Id": "D:\\Documentos\\GitHub\\Studies\\Mini Retro Games\\C#\\MiniRetroSharp\\MiniRetroSharp\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\Documentos\\GitHub\\Studies\\Mini Retro Games\\C#\\MiniRetroSharp\\MiniRetroSharp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Documentos\\GitHub\\Studies\\Mini Retro Games\\C#\\MiniRetroSharp\\MiniRetroSharp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Documentos\\GitHub\\Studies\\Mini Retro Games\\C#\\MiniRetroSharp\\MiniRetroSharp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Documentos\\GitHub\\Studies\\Mini Retro Games\\C#\\MiniRetroSharp\\MiniRetroSharp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Documentos\\GitHub\\Studies\\Mini Retro Games\\C#\\MiniRetroSharp\\MiniRetroSharp\\wwwroot\\js\\decode.min.js",
+      "PackagePath": "staticwebassets\\js\\decode.min.js"
+    },
+    {
+      "Id": "D:\\Documentos\\GitHub\\Studies\\Mini Retro Games\\C#\\MiniRetroSharp\\MiniRetroSharp\\wwwroot\\kni.png",
+      "PackagePath": "staticwebassets\\kni.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MiniRetroSharp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MiniRetroSharp.props",
+      "PackagePath": "build\\MiniRetroSharp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MiniRetroSharp.props",
+      "PackagePath": "buildMultiTargeting\\MiniRetroSharp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MiniRetroSharp.props",
+      "PackagePath": "buildTransitive\\MiniRetroSharp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
